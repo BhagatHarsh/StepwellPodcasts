@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.iframeContainer {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.podcastIframe {
+  margin-top: 20px;
+}
