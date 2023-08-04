@@ -13,7 +13,7 @@ export const podcastSeries = {
         "https://podcasters.spotify.com/pod/show/stepwell-radio/embed/episodes/Short-Stories-with-Insiya-Episode-1-by-RJ-Insiya-e26nuj9"
     ],
     "Shoorveer": [
-        "https://podcasters.spotify.com/pod/show/stepwell-radio/embed/episodes/Shoorveer-Ep-2---In-conversation-with-Mrs--Sugandha-Thakran-with-PJ-Pranav--PJ-Sage-e26nuc4"
+        "https://podcasters.spotify.com/pod/show/stepwell-radio/embed/episodes/Shoorveer-Ep-2---In-conversation-with-Mrs--Sugandha-Thakran-with-RJ-Pranav--RJ-Sage-e26nuc4/a-aa3rhmq"
     ],
     "Letters to Dead": [
         "https://podcasters.spotify.com/pod/show/stepwell-radio/embed/episodes/Letters-to-the-dead-by-RJ-Jiya-with-RJ-Kavyan--RJ-Sage--RJ-Muskan-and-RJ-Kanav-e26nub6"
