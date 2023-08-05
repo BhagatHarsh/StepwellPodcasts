@@ -4,17 +4,10 @@ import { podcastSeries } from "./podcastSeries";
 
 function App() {
 
-    //Saahil here. when you change the style it all breaks
-    // Where do I change the style from?
-
-    //here and the css file
-  //oki
     const frameStyle = {
         height: "150px",
         width: "1200px",
     };
-
-    
 
     const dividerStyle = {
         margin: "20px 0",
