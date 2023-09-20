@@ -1,8 +1,8 @@
 export const podcastSeries = {
     "Beyond The BoardRoom": [
-        "https://podcasters.spotify.com/pod/show/stepwell-radio/episodes/BEYOND-THE-BOARDROOM-EPISODE-1-Prof--Saumil-Shah--Mr--Karan-Patel-e2962n6",
-        "https://podcasters.spotify.com/pod/show/stepwell-radio/episodes/BEYOND-THE-BOARDROOM-EPISODE-2-Prof--Zalak-Shah--Mr--Vraj-Ghoda-e2962oc",
-        "https://podcasters.spotify.com/pod/show/stepwell-radio/episodes/BEYOND-THE-BOARDROOM-EPISODE-1-Prof--Saumil-Shah--Mr--Karan-Patel-e2962n6"
+        "https://podcasters.spotify.com/pod/show/stepwell-radio/embed/episodes/BEYOND-THE-BOARDROOM-EPISODE-1-Prof--Saumil-Shah--Mr--Karan-Patel-e2962n6",
+        "https://podcasters.spotify.com/pod/show/stepwell-radio/embed/episodes/BEYOND-THE-BOARDROOM-EPISODE-2-Prof--Zalak-Shah--Mr--Vraj-Ghoda-e2962oc",
+        "https://podcasters.spotify.com/pod/show/stepwell-radio/embed/episodes/BEYOND-THE-BOARDROOM-EPISODE-1-Prof--Saumil-Shah--Mr--Karan-Patel-e2962n6"
     ],
     "Understanding Elections": [
         "https://podcasters.spotify.com/pod/show/stepwell-radio/embed/episodes/Understanding-Elections-Part-2-In-conversation-with-Sarthak-Bagchi-Interviewed-by-RJ-Ray-and-RJ-Aditi-e26nur8/a-aa3rk0i",
